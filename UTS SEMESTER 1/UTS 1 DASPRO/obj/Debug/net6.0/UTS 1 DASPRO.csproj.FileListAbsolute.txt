@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\bin\Debug\net6.0\UTS 1 DASPRO.exe
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\bin\Debug\net6.0\UTS 1 DASPRO.deps.json
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\bin\Debug\net6.0\UTS 1 DASPRO.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\bin\Debug\net6.0\UTS 1 DASPRO.dll
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\bin\Debug\net6.0\UTS 1 DASPRO.pdb
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\UTS 1 DASPRO.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\UTS 1 DASPRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\UTS 1 DASPRO.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\UTS 1 DASPRO.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\UTS 1 DASPRO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\UTS 1 DASPRO.dll
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\refint\UTS 1 DASPRO.dll
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\UTS 1 DASPRO.pdb
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\UTS 1 DASPRO.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\UTS 1 DASPRO\obj\Debug\net6.0\ref\UTS 1 DASPRO.dll
